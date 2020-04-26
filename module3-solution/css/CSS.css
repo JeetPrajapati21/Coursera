@@ -16,9 +16,6 @@ body {
     background-color: #e1b382;
 }
 
-#headernav button:focus {
-	background-color: #DCDCDC;
-}
 .navbar-brand {
   padding-top: 20px;
 }
