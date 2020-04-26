@@ -16,7 +16,7 @@ body {
     background-color: #e1b382;
 }
 
-#headernav buttion:focus {
+#headernav button:focus {
 	background-color: #DCDCDC;
 }
 
