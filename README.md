@@ -10,4 +10,4 @@ This repository contains my solutions to the assignments of the Coursera course 
 ### Module 3 ###
 * [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
 * [Solution](https://webprjpt.github.io/Coursera/module3-solution/)
-* [Solution(Optional)](* [Solution](https://webprjpt.github.io/Coursera/module3-solution/))
+* [Solution(Optional)](https://webprjpt.github.io/Coursera/module3-solution/))
