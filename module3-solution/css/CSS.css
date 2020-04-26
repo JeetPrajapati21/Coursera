@@ -2,27 +2,30 @@ body {
   font-size: 16px;
   font-family: Oxygen;
   color: #1a1a1a;
-  background-color: #D3D3D3;
+  background-color: #e1b382;
 }
 
 #headernav {
-  background-color: #00FFFF;
+  background-color: #2d545e;
   border-radius: 0;
   border: 0;
 }
 
 #headernav button {
     margin-top: 10px;
-    background-color: #FFFAFA;
+    background-color: #e1b382;
 }
 
+#headernav button:focus {
+	background-color: #DCDCDC;
+}
 .navbar-brand {
   padding-top: 20px;
 }
 
 .navbar-brand h1 {
   font-family: Lora;
-  color: #8A2BE2;
+  color: white;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
 }
@@ -41,7 +44,7 @@ body {
 }
 
 #nav-list a:hover {
-  background: #c9af98;
+  background: #e1b382;
 }
 
 #nav-list a span {
@@ -51,7 +54,6 @@ body {
 .navbar button.navbar-toggler, .navbar button.navbar-toggler-icon {
   border: 1px solid #61122f;
 }
-
 
 #content {
 	width: 90%;
@@ -63,18 +65,21 @@ body {
 	font-weight: bold;
 	margin-top: 30px;
 	margin-bottom: 20px;
+	text-align: center;
 }
 
 #content h3 {
 	font-size: 2em;
 	font-weight: bold;
 	margin-bottom: 5px;
+	text-align: center;
 }
 
 #section {
-    background-color: #c9af98;
+    background-color: #DCDCDC;
     box-shadow: 0 0 50px #0f5900;
     padding: 30px;
+    text-align: left;
 }
 
 
